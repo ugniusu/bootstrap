@@ -1,0 +1,26 @@
+.row1 {
+  background-color: aquamarine;
+}
+
+.row2 {
+  background-color: violet;
+}
+
+.container {
+    display: flex;
+}
+
+body {
+  height: 100vh;
+}
+
+.one {
+    background-color: orangered;
+}
+.two {
+    background-color: rgb(21, 255, 0);
+}
+
+.three {
+    background-color: bisque;
+}
